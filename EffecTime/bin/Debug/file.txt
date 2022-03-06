@@ -1,0 +1,4 @@
+Go shopping|SHOPPING|||02.12.2017|False
+Read the book|REST|18|00|13.12.2017|True
+Buy flowers|SHOPPING|||13.12.2017|False
+Have breakfast.|HOME|||29.11.2017|False

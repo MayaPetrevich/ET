@@ -1,0 +1,14 @@
+D:\учеба\VisualStudio2015\проекты\EffecTime\EffecTime\bin\Debug\EffecTime.exe.config
+D:\учеба\VisualStudio2015\проекты\EffecTime\EffecTime\obj\Debug\EffecTime.csprojResolveAssemblyReference.cache
+D:\учеба\VisualStudio2015\проекты\EffecTime\EffecTime\obj\Debug\EffecTime.DiaryPage.resources
+D:\учеба\VisualStudio2015\проекты\EffecTime\EffecTime\obj\Debug\EffecTime.Properties.Resources.resources
+D:\учеба\VisualStudio2015\проекты\EffecTime\EffecTime\obj\Debug\EffecTime.csproj.GenerateResource.Cache
+D:\учеба\VisualStudio2015\проекты\EffecTime\EffecTime\bin\Debug\EffecTime.exe
+D:\учеба\VisualStudio2015\проекты\EffecTime\EffecTime\bin\Debug\EffecTime.pdb
+D:\учеба\VisualStudio2015\проекты\EffecTime\EffecTime\obj\Debug\EffecTime.exe
+D:\учеба\VisualStudio2015\проекты\EffecTime\EffecTime\obj\Debug\EffecTime.pdb
+D:\учеба\VisualStudio2015\проекты\EffecTime\EffecTime\obj\Debug\EffecTime.NewTaskPage.resources
+D:\учеба\VisualStudio2015\проекты\EffecTime\EffecTime\bin\Debug\en\EffecTime.resources.dll
+D:\учеба\VisualStudio2015\проекты\EffecTime\EffecTime\obj\Debug\EffecTime.NewTaskPage.en.resources
+D:\учеба\VisualStudio2015\проекты\EffecTime\EffecTime\obj\Debug\en\EffecTime.resources.dll
+D:\учеба\VisualStudio2015\проекты\EffecTime\EffecTime\obj\Debug\EffecTime.Hello.resources
